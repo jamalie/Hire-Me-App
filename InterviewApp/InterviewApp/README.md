@@ -17,3 +17,6 @@ This app allows hiring managers to evaluate candidates by logging in, viewing ca
 4. Survey Screen
 5. Calculation Screen
 6. Selected Candidate Screen
+
+## Demo
+- Watch Demo here: https://drive.google.com/file/d/1vE0z7vD-nXrlbz2QdsEmy-6YNlIb_rMl/view?usp=drive_link
