@@ -5,6 +5,7 @@
 This app allows hiring managers to evaluate candidates by logging in, viewing candidate lists, and filling out a survey of questions for each candidate to help determine the best fit
 
 ## Architecture
+- MVVM achitecture style
 - **Frontend**: Built using iOS Swift and SwiftUI.
 - **Backend**: Uses GitHub API for fetching profile data.
 - **Local Storage**: 
