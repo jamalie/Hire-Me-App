@@ -11,7 +11,8 @@ This app allows hiring managers to evaluate candidates by logging in, viewing ca
 
 ## UI Design
 1. Login Screen
-2. Candidate Selection Screen
-3. Survey Screen
-4. Selected Candidate Screen
-
+2. Welcome Back Screen
+3. Candidate Selection Screen
+4. Survey Screen
+5. Calculation Screen
+6. Selected Candidate Screen
